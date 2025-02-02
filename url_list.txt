@@ -1,1 +1,11 @@
-
+https://www.torproject.org/download/#android
+https://protonmail.com/download/CalendarAndroid/ProtonCalendar-Android.apk
+https://proton.me/download/DriveAndroid/ProtonDrive-Android.apk
+https://send.vis.ee/
+https://www.collaboraoffice.com/downloads/Collabora-Office-Android-Snapshot/
+https://proton.me/download/PassAndroid/ProtonPass-Android.apk
+https://gitea.angry.im/PeterCxy/Shelter
+https://auroraoss.com/downloads/AuroraStore/Nightly/
+https://cryptomator.org/android/
+https://mixplorer.com/beta/
+https://f-droid.org/en/packages/org.tasks/
